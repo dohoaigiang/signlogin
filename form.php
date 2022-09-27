@@ -53,6 +53,8 @@
 </style>
 </head>
 <body>
+    <!--tên đăng nhập: dohoaigiang
+        mk:123456-->
     <div class="container">
         <form action="xuly.php" method="Post" > 
             <h3>LOGIN</h3>
